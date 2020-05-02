@@ -1,0 +1,753 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.joaquimbarreto.xyz" ftp_rootfolder="/public_html/barreto.photography" exportTarget="FTP" domain="barreto.photography" resolutions="1x,2x" timestamp="1521631837790">
+  <folder name="css">
+    <file name="site_global.css" crc="129586971"/>
+    <file name="master_master-1.css" crc="143527499" ref="team:product:jewellery:fashion:contact:index:t-c:portraiture"/>
+    <file name="nomq_preview_master_master-1.css" crc="3789019148" ref="team:product:jewellery:fashion:contact:index:t-c:portraiture"/>
+    <file name="team.css" crc="252905464" ref="team"/>
+    <file name="nomq_team.css" crc="3799407802" ref="team"/>
+    <file name="product.css" crc="179834394" ref="product"/>
+    <file name="nomq_product.css" crc="481240033" ref="product"/>
+    <file name="jewellery.css" crc="242498071" ref="jewellery"/>
+    <file name="nomq_jewellery.css" crc="50599891" ref="jewellery"/>
+    <file name="fashion.css" crc="4098905661" ref="fashion"/>
+    <file name="nomq_fashion.css" crc="177448987" ref="fashion"/>
+    <file name="contact.css" crc="3969541784" ref="contact"/>
+    <file name="nomq_contact.css" crc="395809958" ref="contact"/>
+    <file name="index.css" crc="4155365675" ref="index"/>
+    <file name="nomq_index.css" crc="133780623" ref="index"/>
+    <file name="t-c.css" crc="503511118" ref="t-c"/>
+    <file name="nomq_t-c.css" crc="3949266655" ref="t-c"/>
+    <file name="portraiture.css" crc="4019846392" ref="portraiture"/>
+    <file name="nomq_portraiture.css" crc="259667174" ref="portraiture"/>
+  </folder>
+  <folder name="assets">
+    <file name="fashion-1.jpg" crc="184218498" seo="true" mt="1432195894000"/>
+    <file name="fashion-12.jpg" crc="311630362" seo="true" mt="1432236185000"/>
+    <file name="fashion-17.jpg" crc="8390556" seo="true" mt="1432238194000"/>
+    <file name="fashion-28.jpg" crc="4123233077" seo="true" mt="1437035676000"/>
+    <file name="fashion-13.jpg" crc="3874617599" seo="true" mt="1432236778000"/>
+    <file name="fashion-16.jpg" crc="267777169" seo="true" mt="1432237789000"/>
+    <file name="fashion-10.jpg" crc="28023757" seo="true" mt="1432196027000"/>
+    <file name="fashion-23.jpg" crc="4292193037" seo="true" mt="1437035709000"/>
+    <file name="31.jpg" crc="233731586" seo="true" mt="1388263820000"/>
+    <file name="14.jpg" crc="3787216530" seo="true" mt="1388263819000"/>
+    <file name="26.jpg" crc="4264840949" seo="true" mt="1388263820000"/>
+    <file name="15.jpg" crc="4270617818" seo="true" mt="1388263819000"/>
+    <file name="23.jpg" crc="3835328122" seo="true" mt="1388263820000"/>
+    <file name="34.jpg" crc="4158081745" seo="true" mt="1388263820000"/>
+    <file name="25.jpg" crc="398688292" seo="true" mt="1388263820000"/>
+    <file name="12.jpg" crc="4092514905" seo="true" mt="1388263819000"/>
+    <file name="18.jpg" crc="170928508" seo="true" mt="1388263819000"/>
+    <file name="17.jpg" crc="111939194" seo="true" mt="1388263819000"/>
+    <file name="product12.jpg" crc="286277721" seo="true" mt="1477415088000"/>
+    <file name="sh090black2-940x940.jpg" crc="75560535" seo="true" mt="1477415087000"/>
+    <file name="sh090black940x940.jpg" crc="50590893" seo="true" mt="1477415087000"/>
+    <file name="produc_photography01.jpg" crc="515737636" seo="true" mt="1388263609000"/>
+    <file name="fashion-jewellery-3.jpg" crc="517499335" seo="true" mt="1487240485000"/>
+    <file name="fashion-jewellery-2.jpg" crc="173500910" seo="true" mt="1487240485000"/>
+    <file name="fashion-jewellery-1.jpg" crc="4217288504" seo="true" mt="1487240528000"/>
+    <file name="2016111713566.jpg.jpeg" crc="83020594" seo="true" mt="1487240507000"/>
+    <file name="2016111713183.jpg" crc="4180498300" seo="true" mt="1487240517000"/>
+    <file name="2016111713129.jpg" crc="433598693" seo="true" mt="1487240536000"/>
+    <file name="2014012810163_edit-2.jpg" crc="3922988506" seo="true" mt="1391516190000"/>
+    <file name="201401289944_edit-2.jpg" crc="356006826" seo="true" mt="1391516056000"/>
+    <file name="201401289741_edit-2.jpg" crc="4257555460" seo="true" mt="1391516556000"/>
+    <file name="bjb130131-2393.jpg" crc="4098575756" seo="true" mt="1359671965000"/>
+    <file name="bjb130131-2400.jpg" crc="10570641" seo="true" mt="1359671973000"/>
+    <file name="bjb130131-2374.jpg" crc="3970553973" seo="true" mt="1359671957000"/>
+    <file name="bjb130131-2622.jpg" crc="3985769108" seo="true" mt="1506965849000"/>
+    <file name="bjb130131-2589.jpg" crc="4039391465" seo="true" mt="1506965798000"/>
+    <file name="bjb130131-2597.jpg" crc="426881311" seo="true" mt="1506965821000"/>
+    <file name="bjb130131-2634.jpg" crc="401333284" seo="true" mt="1506965862000"/>
+    <file name="bjb130131-2467-1.jpg" crc="213487633" seo="true" mt="1359672209000"/>
+    <file name="weddinghair14314_edit-lr.jpg" crc="249403670" seo="true" mt="1428695477000"/>
+    <file name="1.jpg" crc="327910105" seo="true" mt="1388263609000"/>
+    <file name="2.jpg" crc="360964639" seo="true" mt="1388263609000"/>
+    <file name="3.jpg" crc="4043205563" seo="true" mt="1388263609000"/>
+    <file name="4.jpg" crc="4017885024" seo="true" mt="1388263609000"/>
+    <file name="7.jpg" crc="3951981816" seo="true" mt="1388263609000"/>
+    <file name="9.jpg" crc="103022949" seo="true" mt="1388263609000"/>
+    <file name="172.jpg" crc="4164316868" seo="true" mt="1388263609000"/>
+    <file name="20.jpg" crc="1246536" seo="true" mt="1388263609000"/>
+    <file name="chris.jpg" crc="60801163" seo="true" mt="1388263609000"/>
+    <file name="vlcw130227-4574-edit.jpg" crc="419456005" seo="true" mt="1388263609000"/>
+    <file name="dsc_2821-sq.jpg" crc="4009070008" seo="true" mt="1477436224000"/>
+    <file name="jesus.jpg" crc="243932852" seo="true" mt="1460392334000"/>
+    <file name="tonyjackson130622-16692r.jpg" crc="413828635" seo="true" mt="1382031355000"/>
+    <file name="sophie.jpg" crc="4071378012" seo="true" mt="1460392525000"/>
+    <file name="img_20160524_0005.jpg" crc="3987459942" seo="true" mt="1464118617000"/>
+    <file name="jamieshepherd031r.jpg" crc="4069032903" seo="true" mt="1495228503000"/>
+    <file name="19.jpg" crc="75350991" seo="true" mt="1388263609000"/>
+    <file name="122.jpg" crc="4058844680" seo="true" mt="1388263609000"/>
+    <file name="8.jpg" crc="4015988971" seo="true" mt="1388263609000"/>
+    <file name="6.jpg" crc="31317805" seo="true" mt="1388263609000"/>
+    <file name="2014012810232_edit-1.jpg" crc="483312762" seo="true" mt="1391444733000"/>
+    <file name="a230orange.jpg" crc="246049420" seo="true" mt="1350094192000"/>
+    <file name="belt_photography3_640x360.jpg" crc="85493648" seo="true" mt="1388263617000"/>
+    <file name="bombshell121005-4242.jpg" crc="107575512" seo="true" mt="1388263622000"/>
+    <file name="bombshell121004b-3525.jpg" crc="3779506946" seo="true" mt="1388263622000"/>
+    <file name="hat_photography1_360x640.jpg" crc="205016678" seo="true" mt="1388263622000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="webpro.js" crc="242022427" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="require.js" crc="4157109226" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="394736804" ref="index"/>
+    <file name="barreto photograhy white transparent429x76.png" crc="318467892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent_2x.png" crc="50528632" seo="true" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c">
+      <caption webpage="fashion" alt=""/>
+      <caption webpage="fashion" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="jewellery" alt=""/>
+      <caption webpage="jewellery" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="portraiture" alt=""/>
+      <caption webpage="portraiture" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u71974-4.png" crc="3891920874" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u71974-4_2x.png" crc="242674130" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72068-4.png" crc="475209198" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72068-4_2x.png" crc="4100003551" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72085-4.png" crc="3946050165" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72085-4_2x.png" crc="500292631" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72119-4.png" crc="3873966785" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72119-4_2x.png" crc="4254713111" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72136-4.png" crc="4023501225" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72136-4_2x.png" crc="530638148" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72153-4.png" crc="3961817851" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="u72153-4_2x.png" crc="342224569" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="gps01-instagram50x48.png" crc="3923894182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps01-instagram50x48_2x.png" crc="217744291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps01-twitter50x48.png" crc="3895135915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps01-twitter50x48_2x.png" crc="4153834360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c"/>
+    <file name="2016111713566jpg-crop-u7677.jpg" crc="4154517552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg-crop-u7677_2x.jpg" crc="4021840945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u7680.jpg" crc="286408938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u7680_2x.jpg" crc="4173302131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u83502.jpg" crc="465493909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u83502_2x.jpg" crc="4070155034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u83503.jpg" crc="4103181349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u83503_2x.jpg" crc="3863331323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram46x46.png" crc="3908957376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram_2x.png" crc="4116259846" seo="true" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c">
+      <caption webpage="fashion" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="jewellery" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="portraiture" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gps03-twitter46x46.png" crc="307975290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter_2x.png" crc="3959605922" seo="true" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c">
+      <caption webpage="fashion" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="jewellery" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="portraiture" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent.png" crc="8438293" seo="true" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c">
+      <caption webpage="fashion" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="jewellery" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="portraiture" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="gps01-instagram33x33.png" crc="275616078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps01-instagram33x33_2x.png" crc="3848690959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps01-twitter33x33.png" crc="428446872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps01-twitter33x33_2x.png" crc="454806555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u835022.jpg" crc="28959970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u83502_2x2.jpg" crc="398188031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u835032.jpg" crc="3868579131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u83503_2x2.jpg" crc="4281831064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg241x241.jpg" crc="54124353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg241x241_2x.jpg" crc="4017356533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5298x237.jpg" crc="4207882362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5298x237_2x.jpg" crc="4292298089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram29x29.png" crc="473319340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram29x29_2x.png" crc="75866966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter29x29.png" crc="4214629336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter29x29_2x.png" crc="28567742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent215x38.png" crc="335551302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent215x38_2x.png" crc="3917034350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u835023.jpg" crc="3926812940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u83502_2x3.jpg" crc="4151528799" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u835033.jpg" crc="3971960071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u83503_2x3.jpg" crc="431200325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg191x192.jpg" crc="3847910989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg191x192_2x.jpg" crc="4291745915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5212x169.jpg" crc="4264638917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5212x169_2x.jpg" crc="4213097568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram28x28.png" crc="3817956856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram28x28_2x.png" crc="243759055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter27x28.png" crc="440206946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter27x28_2x.png" crc="93385177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent158x28.png" crc="382507317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent158x28_2x.png" crc="4186536362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u835024.jpg" crc="268564368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u83502_2x4.jpg" crc="39154301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u835034.jpg" crc="3953392867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u83503_2x4.jpg" crc="4172376726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg125x125.jpg" crc="353846620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg125x125_2x.jpg" crc="4235889072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u76802.jpg" crc="450202806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u7680_2x2.jpg" crc="4122370354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram25x25.png" crc="3891030347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram25x25_2x.png" crc="3885213323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter25x25.png" crc="4202488240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter25x25_2x.png" crc="429809163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent-crop-u70044.png" crc="4092168126" seo="true" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c">
+      <caption webpage="fashion" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="jewellery" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="portraiture" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent-crop-u70044_2x.png" crc="12964262" seo="true" ref="index:contact:team:fashion:portraiture:jewellery:product:t-c">
+      <caption webpage="fashion" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="jewellery" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="portraiture" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="audrey-crop-u835025.jpg" crc="241187701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audrey-crop-u83502_2x5.jpg" crc="34320277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg-crop-u76772.jpg" crc="3805527610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016111713566jpg-crop-u7677_2x2.jpg" crc="4075552905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u835035.jpg" crc="403948348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product12-crop-u83503_2x5.jpg" crc="292943954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u76803.jpg" crc="239842775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u7680_2x3.jpg" crc="4037262900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram26x26.png" crc="3770998099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-instagram26x26_2x.png" crc="4208047175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter26x26.png" crc="4248387389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps03-twitter26x26_2x.png" crc="209247482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="394736804" ref="contact"/>
+    <file name="barreto photograhy white transparent183x33.png" crc="364733975" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="barreto photograhy white transparent183x33_2x.png" crc="3959843264" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940-crop-u85234.jpg" crc="289862737" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940-crop-u85234_2x.jpg" crc="117545875" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940208x208.jpg" crc="222074050" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940208x208_2x.jpg" crc="3936595734" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940149x149.jpg" crc="3833643756" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940149x149_2x.jpg" crc="4200525067" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940130x130.jpg" crc="4192841875" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940130x130_2x.jpg" crc="439724948" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940-crop-u852342.jpg" crc="4249945639" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940-crop-u85234_2x2.jpg" crc="4169708246" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940-crop-u852343.jpg" crc="3999940779" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940-crop-u85234_2x3.jpg" crc="3848314406" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="5-crop-u75692.jpg" crc="3791282834" seo="true" ref="fashion">
+      <caption webpage="fashion" alt=""/>
+    </file>
+    <file name="u53605-4.png" crc="3760956049" ref="fashion"/>
+    <file name="u53605-4_2x.png" crc="4183944993" ref="fashion"/>
+    <file name="5-crop-u756922.jpg" crc="4216386932" seo="true" ref="fashion">
+      <caption webpage="fashion" alt=""/>
+    </file>
+    <file name="u53605-42.png" crc="3987695820" ref="fashion"/>
+    <file name="u53605-4_2x2.png" crc="306020259" ref="fashion"/>
+    <file name="5-crop-u756923.jpg" crc="3892868298" seo="true" ref="fashion">
+      <caption webpage="fashion" alt=""/>
+    </file>
+    <file name="u53605-43.png" crc="421833889" ref="fashion"/>
+    <file name="u53605-4_2x3.png" crc="3935955303" ref="fashion"/>
+    <file name="5-crop-u756924.jpg" crc="4077637228" seo="true" ref="fashion">
+      <caption webpage="fashion" alt=""/>
+    </file>
+    <file name="u53605-44.png" crc="3759088479" ref="fashion"/>
+    <file name="u53605-4_2x4.png" crc="372416552" ref="fashion"/>
+    <file name="5-crop-u756925.jpg" crc="114442058" seo="true" ref="fashion">
+      <caption webpage="fashion" alt=""/>
+    </file>
+    <file name="u53605-45.png" crc="3759088479" ref="fashion"/>
+    <file name="u53605-4_2x5.png" crc="372416552" ref="fashion"/>
+    <file name="audrey home nbanner-crop-u80250.jpg" crc="3915348930" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="audrey home nbanner-crop-u80250_2x.jpg" crc="4016769072" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="u80248-4.png" crc="4177056267" ref="portraiture"/>
+    <file name="u80248-4_2x.png" crc="115118907" ref="portraiture"/>
+    <file name="audrey home nbanner-crop-u802502.jpg" crc="4112749414" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="audrey home nbanner-crop-u80250_2x2.jpg" crc="522349731" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="u80248-42.png" crc="3930515638" ref="portraiture"/>
+    <file name="u80248-4_2x2.png" crc="4004195873" ref="portraiture"/>
+    <file name="audrey home nbanner-crop-u802503.jpg" crc="3807777313" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="audrey home nbanner-crop-u80250_2x3.jpg" crc="4014973447" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="u80248-43.png" crc="73039483" ref="portraiture"/>
+    <file name="u80248-4_2x3.png" crc="76387721" ref="portraiture"/>
+    <file name="audrey home nbanner-crop-u802504.jpg" crc="290990234" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="audrey home nbanner-crop-u80250_2x4.jpg" crc="3901179982" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="u80248-44.png" crc="3926406000" ref="portraiture"/>
+    <file name="u80248-4_2x4.png" crc="332652020" ref="portraiture"/>
+    <file name="audrey home nbanner-crop-u802505.jpg" crc="391330125" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="audrey home nbanner-crop-u80250_2x5.jpg" crc="3927238759" seo="true" ref="portraiture">
+      <caption webpage="portraiture" alt=""/>
+    </file>
+    <file name="u80248-45.png" crc="4079433630" ref="portraiture"/>
+    <file name="u80248-4_2x5.png" crc="3871743559" ref="portraiture"/>
+    <file name="bjb130131 2454-crop-u80558.jpg" crc="4274104596" seo="true" ref="jewellery">
+      <caption webpage="jewellery" alt=""/>
+    </file>
+    <file name="u80548-4.png" crc="524185674" ref="jewellery"/>
+    <file name="u80548-4_2x.png" crc="386331441" ref="jewellery"/>
+    <file name="bjb130131 2454-crop-u805582.jpg" crc="6975228" seo="true" ref="jewellery">
+      <caption webpage="jewellery" alt=""/>
+    </file>
+    <file name="u80548-42.png" crc="439511053" ref="jewellery"/>
+    <file name="u80548-4_2x2.png" crc="3820880831" ref="jewellery"/>
+    <file name="bjb130131 2454769x569.jpg" crc="3764996860" seo="true" ref="jewellery">
+      <caption webpage="jewellery" alt=""/>
+    </file>
+    <file name="u80548-43.png" crc="4031700542" ref="jewellery"/>
+    <file name="u80548-4_2x3.png" crc="3892412597" ref="jewellery"/>
+    <file name="bjb130131 2454476x352.jpg" crc="3907255619" seo="true" ref="jewellery">
+      <caption webpage="jewellery" alt=""/>
+    </file>
+    <file name="u80548-44.png" crc="286109381" ref="jewellery"/>
+    <file name="u80548-4_2x4.png" crc="3923140664" ref="jewellery"/>
+    <file name="bjb130131 2454-crop-u805583.jpg" crc="3915735864" seo="true" ref="jewellery">
+      <caption webpage="jewellery" alt=""/>
+    </file>
+    <file name="u80548-45.png" crc="286109381" ref="jewellery"/>
+    <file name="u80548-4_2x5.png" crc="3923140664" ref="jewellery"/>
+    <file name="2017041219288iii-crop-u80772.jpg" crc="3825007765" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="2017041219288iii-crop-u80772_2x.jpg" crc="4293637410" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="u80781-4.png" crc="3850370773" ref="product"/>
+    <file name="u80781-4_2x.png" crc="4177911638" ref="product"/>
+    <file name="2017041219288iii960x591.jpg" crc="4179419815" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="2017041219288iii960x591_2x.jpg" crc="133211180" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="u80781-42.png" crc="362390776" ref="product"/>
+    <file name="u80781-4_2x2.png" crc="21063078" ref="product"/>
+    <file name="2017041219288iii769x473.jpg" crc="4097713964" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="2017041219288iii769x473_2x.jpg" crc="3961799067" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="u80781-43.png" crc="203002288" ref="product"/>
+    <file name="u80781-4_2x3.png" crc="3890494937" ref="product"/>
+    <file name="2017041219288iii476x293.jpg" crc="4166435703" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="2017041219288iii476x293_2x.jpg" crc="3988437057" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="u80781-44.png" crc="66934233" ref="product"/>
+    <file name="u80781-4_2x4.png" crc="338061474" ref="product"/>
+    <file name="2017041219288iii-crop-u807722.jpg" crc="3956180029" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="2017041219288iii-crop-u80772_2x2.jpg" crc="468858043" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="u80781-45.png" crc="66934233" ref="product"/>
+    <file name="u80781-4_2x5.png" crc="338061474" ref="product"/>
+  </folder>
+  <file name="index.html" crc="3914823446" seo="true" mt="1521631790023" redirect="true"/>
+  <file name="contact.html" crc="4139382476" seo="true" mt="1521631790023" redirect="true"/>
+  <file name="team.html" crc="4131655849" seo="true" mt="1521631790023" redirect="true"/>
+  <file name="fashion.html" crc="4274457610" seo="true" mt="1521631790023" redirect="true"/>
+  <file name="portraiture.html" crc="288580388" seo="true" mt="1521631790023" redirect="true"/>
+  <file name="jewellery.html" crc="205951640" seo="true" mt="1521631790023" redirect="true"/>
+  <file name="product.html" crc="4102713725" seo="true" mt="1521631790023" redirect="true"/>
+  <file name="t-c.html" crc="180122635" seo="true" mt="1521631790023" redirect="true"/>
+  <site>
+    <asset filename="fashion-1.jpg" muse_href="upload:U78389"/>
+    <asset filename="fashion-12.jpg" muse_href="upload:U78391"/>
+    <asset filename="fashion-17.jpg" muse_href="upload:U78873"/>
+    <asset filename="fashion-28.jpg" muse_href="upload:U78875"/>
+    <asset filename="fashion-13.jpg" muse_href="upload:U78987"/>
+    <asset filename="fashion-16.jpg" muse_href="upload:U79109"/>
+    <asset filename="fashion-10.jpg" muse_href="upload:U80043"/>
+    <asset filename="fashion-23.jpg" muse_href="upload:U80045"/>
+    <asset filename="31.jpg" muse_href="upload:U80047"/>
+    <asset filename="14.jpg" muse_href="upload:U80049"/>
+    <asset filename="26.jpg" muse_href="upload:U80051"/>
+    <asset filename="15.jpg" muse_href="upload:U80053"/>
+    <asset filename="23.jpg" muse_href="upload:U80055"/>
+    <asset filename="34.jpg" muse_href="upload:U80057"/>
+    <asset filename="25.jpg" muse_href="upload:U80059"/>
+    <asset filename="12.jpg" muse_href="upload:U80061"/>
+    <asset filename="18.jpg" muse_href="upload:U80063"/>
+    <asset filename="17.jpg" muse_href="upload:U80065"/>
+    <asset filename="product12.jpg" muse_href="upload:U81671"/>
+    <asset filename="sh090black2-940x940.jpg" muse_href="upload:U81673"/>
+    <asset filename="sh090black940x940.jpg" muse_href="upload:U81675"/>
+    <asset filename="produc_photography01.jpg" muse_href="upload:U81677"/>
+    <asset filename="fashion-jewellery-3.jpg" muse_href="upload:U81715"/>
+    <asset filename="fashion-jewellery-2.jpg" muse_href="upload:U81717"/>
+    <asset filename="fashion-jewellery-1.jpg" muse_href="upload:U81719"/>
+    <asset filename="2016111713566.jpg.jpeg" muse_href="upload:U81721"/>
+    <asset filename="2016111713183.jpg" muse_href="upload:U81723"/>
+    <asset filename="2016111713129.jpg" muse_href="upload:U81725"/>
+    <asset filename="2014012810163_edit-2.jpg" muse_href="upload:U81727"/>
+    <asset filename="201401289944_edit-2.jpg" muse_href="upload:U81729"/>
+    <asset filename="201401289741_edit-2.jpg" muse_href="upload:U81731"/>
+    <asset filename="bjb130131-2393.jpg" muse_href="upload:U81733"/>
+    <asset filename="bjb130131-2400.jpg" muse_href="upload:U81735"/>
+    <asset filename="bjb130131-2374.jpg" muse_href="upload:U81737"/>
+    <asset filename="bjb130131-2622.jpg" muse_href="upload:U81739"/>
+    <asset filename="bjb130131-2589.jpg" muse_href="upload:U81741"/>
+    <asset filename="bjb130131-2597.jpg" muse_href="upload:U81743"/>
+    <asset filename="bjb130131-2634.jpg" muse_href="upload:U81745"/>
+    <asset filename="bjb130131-2467-1.jpg" muse_href="upload:U81747"/>
+    <asset filename="weddinghair14314_edit-lr.jpg" muse_href="upload:U81749"/>
+    <asset filename="1.jpg" muse_href="upload:U81829"/>
+    <asset filename="2.jpg" muse_href="upload:U81831"/>
+    <asset filename="3.jpg" muse_href="upload:U81833"/>
+    <asset filename="4.jpg" muse_href="upload:U81835"/>
+    <asset filename="7.jpg" muse_href="upload:U81837"/>
+    <asset filename="9.jpg" muse_href="upload:U81839"/>
+    <asset filename="172.jpg" muse_href="upload:U81841"/>
+    <asset filename="20.jpg" muse_href="upload:U81843"/>
+    <asset filename="chris.jpg" muse_href="upload:U81845"/>
+    <asset filename="vlcw130227-4574-edit.jpg" muse_href="upload:U81847"/>
+    <asset filename="dsc_2821-sq.jpg" muse_href="upload:U81849"/>
+    <asset filename="jesus.jpg" muse_href="upload:U81851"/>
+    <asset filename="tonyjackson130622-16692r.jpg" muse_href="upload:U81853"/>
+    <asset filename="sophie.jpg" muse_href="upload:U81855"/>
+    <asset filename="img_20160524_0005.jpg" muse_href="upload:U81857"/>
+    <asset filename="jamieshepherd031r.jpg" muse_href="upload:U81859"/>
+    <asset filename="19.jpg" muse_href="upload:U81861"/>
+    <asset filename="122.jpg" muse_href="upload:U81863"/>
+    <asset filename="8.jpg" muse_href="upload:U81952"/>
+    <asset filename="6.jpg" muse_href="upload:U81954"/>
+    <asset filename="2014012810232_edit-1.jpg" muse_href="upload:U82016"/>
+    <asset filename="a230orange.jpg" muse_href="upload:U83926"/>
+    <asset filename="belt_photography3_640x360.jpg" muse_href="upload:U83928"/>
+    <asset filename="bombshell121005-4242.jpg" muse_href="upload:U83955"/>
+    <asset filename="bombshell121004b-3525.jpg" muse_href="upload:U83957"/>
+    <asset filename="hat_photography1_360x640.jpg" muse_href="upload:U83959"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="p---body-left-dark" uid="U100"/>
+    <paragraphStyle className="h1---heading-left-dark" uid="U173"/>
+    <paragraphStyle className="h2---subheading-left-dark" uid="U177"/>
+    <paragraphStyle className="h1---heading-left-light" uid="U1385"/>
+    <paragraphStyle className="p-body-copy-left-light" uid="U1401"/>
+    <paragraphStyle className="p---body-center-light" uid="U1511"/>
+    <paragraphStyle className="h1---display-left-light" uid="U1872"/>
+    <paragraphStyle className="h1---display-center-light" uid="U1880"/>
+    <paragraphStyle className="p---btn-text-center" uid="U2180"/>
+    <paragraphStyle className="p---body-center-dark" uid="U2871"/>
+    <paragraphStyle className="h1---heading-centered-dark" uid="U2872"/>
+    <paragraphStyle className="h2---subheading-center-dark" uid="U2873"/>
+    <paragraphStyle className="h1---display-left-dark" uid="U4365"/>
+    <paragraphStyle className="p---hyperlinks" uid="U4633"/>
+    <paragraphStyle className="p---btn-pagenation" uid="U5356"/>
+    <paragraphStyle className="p---btn-pagenation-hover" uid="U5357"/>
+    <paragraphStyle className="p---btn-pagenation-active" uid="U5360"/>
+    <paragraphStyle className="h3---subheading-center-dark" uid="U7626"/>
+    <paragraphStyle className="h4---subheading-center-dark" uid="U7657"/>
+    <paragraphStyle className="p---body-left-light" uid="U8020"/>
+    <paragraphStyle className="p---footer-links" uid="U8038"/>
+    <paragraphStyle className="Paragraph-Style" uid="U47154"/>
+    <paragraphStyle className="h1---Display-left-light1" uid="U47155"/>
+    <paragraphStyle className="h5---subheading-left-dark-bold" uid="U50758"/>
+    <paragraphStyle className="h3---subheading-left-dark" uid="U51868"/>
+    <paragraphStyle className="h4---subheading-left-dark" uid="U51869"/>
+    <textLinkStyle className="footer-links" uid="U8240"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U7567" master="U14107">
+        <breakpoint uid="U7375" maxwidth="414" minwidth="0" squishy="true"/>
+        <breakpoint uid="U7327" maxwidth="550" minwidth="415" squishy="false"/>
+        <breakpoint uid="U7279" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U7472" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U7423" maxwidth="1200" minwidth="961" squishy="true"/>
+      </page>
+      <masterPage name="Master 1" master="U62" uid="U14107">
+        <breakpoint uid="U14212" maxwidth="414" minwidth="0" squishy="true"/>
+        <breakpoint uid="U14320" maxwidth="550" minwidth="415" squishy="true"/>
+        <breakpoint uid="U14374" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U14157" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U14429" maxwidth="1200" minwidth="961" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Contact" filename="contact.html" muse_href="page:U22063" master="U14107">
+        <breakpoint uid="U21985" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U22005" maxwidth="550" minwidth="481" squishy="false"/>
+        <breakpoint uid="U21944" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U21964" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U22026" maxwidth="1200" minwidth="961" squishy="true"/>
+      </page>
+      <page name="Team" filename="team.html" muse_href="page:U53010" master="U14107">
+        <breakpoint uid="U52870" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U52734" maxwidth="550" minwidth="481" squishy="false"/>
+        <breakpoint uid="U52916" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U52964" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U52821" maxwidth="1200" minwidth="961" squishy="true"/>
+      </page>
+      <page name="Fashion" filename="fashion.html" muse_href="page:U53833" master="U14107">
+        <breakpoint uid="U53693" maxwidth="414" minwidth="0" squishy="true"/>
+        <breakpoint uid="U53557" maxwidth="550" minwidth="415" squishy="false"/>
+        <breakpoint uid="U53739" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U53787" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U53644" maxwidth="1200" minwidth="961" squishy="true"/>
+      </page>
+      <page name="Portraiture" filename="portraiture.html" muse_href="page:U80455" master="U14107">
+        <breakpoint uid="U80296" maxwidth="414" minwidth="0" squishy="true"/>
+        <breakpoint uid="U80376" maxwidth="550" minwidth="415" squishy="false"/>
+        <breakpoint uid="U80414" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U80256" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U80338" maxwidth="1200" minwidth="961" squishy="true"/>
+      </page>
+      <page name="Jewellery" filename="jewellery.html" muse_href="page:U80679" master="U14107">
+        <breakpoint uid="U80599" maxwidth="414" minwidth="0" squishy="true"/>
+        <breakpoint uid="U80464" maxwidth="550" minwidth="415" squishy="false"/>
+        <breakpoint uid="U80504" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U80560" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U80639" maxwidth="1200" minwidth="961" squishy="true"/>
+      </page>
+      <page name="Product" filename="product.html" muse_href="page:U80903" master="U14107">
+        <breakpoint uid="U80823" maxwidth="414" minwidth="0" squishy="true"/>
+        <breakpoint uid="U80864" maxwidth="550" minwidth="415" squishy="false"/>
+        <breakpoint uid="U80784" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U80686" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U80728" maxwidth="1200" minwidth="961" squishy="true"/>
+      </page>
+      <page name="T&amp;C" filename="t-c.html" muse_href="page:U84115" master="U14107">
+        <breakpoint uid="U83997" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U84019" maxwidth="550" minwidth="481" squishy="false"/>
+        <breakpoint uid="U84081" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U84040" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U84061" maxwidth="1200" minwidth="961" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
